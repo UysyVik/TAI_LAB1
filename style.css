@@ -5,3 +5,10 @@ body {
 li {
     display: inline;
 }
+
+footer {
+    bottom: 0px;
+    text-align: center;
+    position: fixed;
+    width: 100%
+}
