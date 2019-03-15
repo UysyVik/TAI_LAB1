@@ -17,7 +17,7 @@ for (let i = 0; i < 11; i++) {
         } 
         else if(j == 0 && i>0){
           result += '[' + i + ']';
-        }   
+        }
         else if(i>0 && j>0){
         result += buff((i*j+'').length ) + i*j;
         }
